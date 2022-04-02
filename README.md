@@ -1,1 +1,10 @@
-# responsive_ecommerce_website
+### A responsive eCommerce management website  ###
+* Uses Technology
+              * PHP
+              * HTML
+              * CSS
+              * Javascript
+              * Ajax
+              * Mysql
+                  
+
